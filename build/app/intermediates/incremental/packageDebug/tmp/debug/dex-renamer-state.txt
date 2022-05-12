@@ -1,0 +1,4 @@
+#Fri May 13 00:51:41 IST 2022
+base.0=/home/amajaying/Desktop/codes/Flutter-Learning/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
