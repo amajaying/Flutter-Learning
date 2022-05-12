@@ -11,7 +11,7 @@ void main() {
         ),
         body: const Center(
           child: Image(
-            image: AssetImage('images/diamond.png'),
+            image: AssetImage('images/download.jpeg'),
           ),
         ),
       ),
