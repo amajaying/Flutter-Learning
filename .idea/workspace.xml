@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="216a02e8-e005-4e09-9f2f-b6b776e20ddb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mi_card_flutter/.packages" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mi_card_flutter/android/.gradle/7.0.2/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mi_card_flutter/android/.gradle/7.0.2/dependencies-accessors/gc.properties" afterDir="false" />
@@ -32,19 +31,20 @@
       <change afterPath="$PROJECT_DIR$/mi_card_flutter/android/gradlew" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mi_card_flutter/android/gradlew.bat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mi_card_flutter/android/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mi_card_flutter/fonts/Pacifico-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mi_card_flutter/fonts/SourceSansPro-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mi_card_flutter/img/photo.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mi_card_flutter/ios/Flutter/Generated.xcconfig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mi_card_flutter/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mi_card_flutter/ios/Runner/GeneratedPluginRegistrant.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mi_card_flutter/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mi_card_flutter/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Flutter-Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Flutter-Learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/main_dart.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mi_card_flutter" beforeDir="false" afterPath="$PROJECT_DIR$/mi_card_flutter" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mi_card_flutter/.idea/mi_card_flutter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mi_card_flutter/.idea/mi_card_flutter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mi_card_flutter/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/mi_card_flutter/android/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mi_card_flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mi_card_flutter/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mi_card_flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mi_card_flutter/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mi_card_flutter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mi_card_flutter/fonts" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -81,6 +81,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mi_card_flutter/fonts" />
+      <recent name="$PROJECT_DIR$/mi_card_flutter/img" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/android/images" />
     </key>
